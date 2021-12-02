@@ -1,9 +1,0 @@
-name,address,categories,latitude,longitude
-"Taco Bell (10 - 8th Avenue S E)","10 8th Ave Se, Saint Cloud, MN 56304","Burritos,Fast Food,Mexican",45.5680008,-94.1500015
-"Hi-Ho South Burgers & Brews","10 Center Ave E, Dilworth, MN 56529","Burgers,American,Sandwiches",46.8768005,-96.7109985
-"Sal’s on fifth","10 North 5th Street, Minneapolis, MN 55403",NULL,44.9798012,-93.2813034
-
-
-
-
-

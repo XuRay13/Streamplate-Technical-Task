@@ -1,6 +1,6 @@
 from venue import Venue
 from category import Category
-from project import API
+from API import API
 import datetime
 import sys
 
@@ -9,7 +9,7 @@ import sys
 class Answer:
     def __init__(self):
 
-        self.project = API(49.000, -97.000, 47)    #API Object 
+        self.project = API(49.000, -97.000, 5)    #API Object 
         self.project.process_data()
 
 
